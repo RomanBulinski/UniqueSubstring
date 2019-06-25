@@ -1,7 +1,9 @@
 # UniqueSubstring
 Codewars kata
 
-Write a function that takes two strings, A and B, and returns the length of the longest possible substring that can be formed from the concatenation of either A + B or B + A containing only characters that do not appear in both A and B.
+Write a function that takes two strings, A and B, and returns the length of the longest possible substring 
+that can be formed from the concatenation of either A + B or B + A 
+containing only characters that do not appear in both A and B.
 
 Example:
 Given the strings "piquancy" and "refocusing":
